@@ -9,6 +9,17 @@ function updateRemainingChars() {
 
   let remainingChars = maxChars - enteredTextLength;
 
+  if (remainingChars <= 10) {
+    remainingCharsElement.style.color = "red";
+    productNameInputElement.style.borderColor = "red";
+  } else if (remainingChars <= 20) {
+    remainingCharsElement.style.color = "orange";
+    productNameInputElement.style.borderColor = "orange";
+  } else {
+    remainingCharsElement.style.color = "black";
+    productNameInputElement.style.borderColor = "black";
+  }
+
   remainingCharsElement.textContent = remainingChars;
 }
 
