@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Test",
+    "address": "teststreet",
+    "cuisine": "Italian",
+    "website": "https://mytest.com",
+    "description": "good"
+  },
+  {
+    "name": "test2",
+    "address": "teststreet",
+    "cuisine": "Indian",
+    "website": "https://mytest2.com",
+    "description": "amazing"
+  }
+]
