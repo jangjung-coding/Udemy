@@ -1,0 +1,17 @@
+{
+  "name": "practicenodejs",
+  "version": "1.0.0",
+  "description": "Getting started with Node % Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "JungWoo Jang",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
