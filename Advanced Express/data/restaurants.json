@@ -12,5 +12,12 @@
     "cuisine": "Indian",
     "website": "https://mytest2.com",
     "description": "amazing"
+  },
+  {
+    "name": "test3",
+    "address": "teststreet",
+    "cuisine": "Korean",
+    "website": "https://mytest3.com",
+    "description": "awesome"
   }
 ]
