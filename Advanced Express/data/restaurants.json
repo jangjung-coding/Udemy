@@ -1,5 +1,6 @@
 [
   {
+    "id": "r1",
     "name": "Test",
     "address": "teststreet",
     "cuisine": "Italian",
@@ -7,6 +8,7 @@
     "description": "good"
   },
   {
+    "id": "r2",
     "name": "test2",
     "address": "teststreet",
     "cuisine": "Indian",
@@ -14,10 +16,19 @@
     "description": "amazing"
   },
   {
+    "id": "r3",
     "name": "test3",
     "address": "teststreet",
     "cuisine": "Korean",
     "website": "https://mytest3.com",
     "description": "awesome"
+  },
+  {
+    "name": "Munich Fine Restaurant",
+    "address": "Greatstreet 5, Munich",
+    "cuisine": "German",
+    "website": "https://munich-awesome.com",
+    "description": "It's in Munich!!",
+    "id": "3cf6b0cc-6cda-4def-aec1-68cfff115250"
   }
 ]
